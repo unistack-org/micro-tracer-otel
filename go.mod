@@ -1,4 +1,4 @@
-module go.unistack.org/micro-tracer-otel/v4
+module go.unistack.org/micro-tracer-otel/v3
 
 go 1.20
 
@@ -7,7 +7,6 @@ require (
 	go.opentelemetry.io/otel/sdk v1.16.0
 	go.opentelemetry.io/otel/trace v1.16.0
 	go.unistack.org/micro/v3 v3.10.23
-	go.unistack.org/micro/v4 v4.0.4
 )
 
 require (
