@@ -12,8 +12,8 @@ import (
 	"go.opentelemetry.io/otel/propagation"
 	tracesdk "go.opentelemetry.io/otel/sdk/trace"
 	"go.opentelemetry.io/otel/trace"
-	"go.unistack.org/micro/v4/metadata"
-	"go.unistack.org/micro/v4/tracer"
+	"go.unistack.org/micro/v3/metadata"
+	"go.unistack.org/micro/v3/tracer"
 )
 
 var _ tracer.Tracer = (*otelTracer)(nil)

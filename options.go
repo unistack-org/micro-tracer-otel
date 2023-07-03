@@ -3,7 +3,7 @@ package otel
 import (
 	tracesdk "go.opentelemetry.io/otel/sdk/trace"
 	"go.opentelemetry.io/otel/trace"
-	"go.unistack.org/micro/v4/tracer"
+	"go.unistack.org/micro/v3/tracer"
 )
 
 type providerKey struct{}
