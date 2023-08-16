@@ -8,8 +8,8 @@ import (
 
 type providerKey struct{}
 
-func Provider(opts ...tracesdk.TracerProvider) tracer.Option {
-	return tracer.SetOption(providerKey{}, opts)
+func Provider(tp *tracesdk.TracerProvider) tracer.Option {
+	return tracer.SetOption(providerKey{}, tp)
 }
 
 type providerOptionsKey struct{}
