@@ -6,7 +6,8 @@ require (
 	go.opentelemetry.io/otel v1.47.0
 	go.opentelemetry.io/otel/sdk v1.45.0
 	go.opentelemetry.io/otel/trace v1.47.0
-	go.unistack.org/micro/v4 v4.0.4
+	go.unistack.org/micro/v4 v4.1.36
+	go.unistack.org/micro/v4/metadata v0.0.0-20260512082430-bf90d8108a64
 )
 
 require (
