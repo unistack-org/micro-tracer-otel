@@ -27,8 +27,10 @@ go.opentelemetry.io/otel/trace v1.47.0 h1:JOjX/Oci8K94QHddo+bbfya/Ai/nf6/dt9ZfrF
 go.opentelemetry.io/otel/trace v1.47.0/go.mod h1:jNaSLa2PZEYFG6fRjJABAu+bw4FS08uDmPg28lTghu0=
 go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
 go.uber.org/goleak v1.3.0/go.mod h1:CoHD4mav9JJNrW/WLlf7HGZPjdw8EucARQHekz1X6bE=
-go.unistack.org/micro/v4 v4.0.4 h1:tbCpqXQTAqK57LeasRR1uSTnGC+xs7K57bxifKmhzUQ=
-go.unistack.org/micro/v4 v4.0.4/go.mod h1:+wBa98rSf+mRXb/MuSVFPXtDrqN0k8rzPQiC8wRCwCo=
+go.unistack.org/micro/v4 v4.1.36 h1:wceT//94HgBYiVNfplhdnrjMYWC/pvj6LGOyxRHMXEk=
+go.unistack.org/micro/v4 v4.1.36/go.mod h1:RsmXgfDurN6VsVwDL2MgrLyruTogjdaMlXoSKq17ezI=
+go.unistack.org/micro/v4/metadata v0.0.0-20260512082430-bf90d8108a64 h1:6Yd4HlV8klIrkM2jJufS/KCZXXo1L7ZsL1B5zfQE830=
+go.unistack.org/micro/v4/metadata v0.0.0-20260512082430-bf90d8108a64/go.mod h1:JrE/2XmyCYN6BX+EwQE5LPVld+DcCwVq2ak8+WzWFQU=
 go.yaml.in/yaml/v3 v3.0.5 h1:N6y/pJk8buWs9NY5ERU2HSMfm+IuD/OtfdAnq6kESPw=
 go.yaml.in/yaml/v3 v3.0.5/go.mod h1:HVTZu1O7/Vkt2N+BFy8Zza+lnLsABggaTM2ZpNIGuKg=
 golang.org/x/sys v0.48.0 h1:bbX/i/6MgT9BVLM9RT1thmxL04yeTAhbEz4SyadbXoo=
